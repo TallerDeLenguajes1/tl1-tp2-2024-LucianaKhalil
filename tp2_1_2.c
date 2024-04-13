@@ -15,7 +15,7 @@ int main(){
 {
 
     vt[i]=1+rand()%100;
-    printf("%f ", *punt);
+    printf("%.2f \t", *punt);
     punt++;
 }
 return 0;
